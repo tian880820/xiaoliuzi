@@ -1,0 +1,8 @@
+金融数据查询结果说明
+========================================
+查询内容: 宁德时代最新价
+数据文件路径: /home/admin/.openclaw/workspace/mx_data/output/mx_data_宁德时代最新价.xlsx
+描述文件路径: /home/admin/.openclaw/workspace/mx_data/output/mx_data_宁德时代最新价_description.txt
+数据行数: 3
+表数量: 2
+Sheet 列表: 宁德时代(300750.SZ)等当前的最新价, 宁德时代(300750.SZ)等的收盘价

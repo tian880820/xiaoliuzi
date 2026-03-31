@@ -1,0 +1,450 @@
+{
+  "success": true,
+  "status": 0,
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "2037e368-9bb7-490a-b641-f1f3e697cd56",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "fb7f4507-b02f-4496-bd42-123018064371",
+        "dataTableDTOList": [
+          {
+            "code": "300750.SZ",
+            "entityName": "最新价",
+            "hkDelay": false,
+            "table": {
+              "宁德时代(300750.SZ)": [
+                "413.00"
+              ],
+              "宁德时代(03750.HK)": [
+                "632.000"
+              ],
+              "headName": [
+                "2026-03-30 23:20"
+              ]
+            },
+            "rawTable": {
+              "宁德时代(300750.SZ)": [
+                "413.00"
+              ],
+              "宁德时代(03750.HK)": [
+                "632.000"
+              ],
+              "headName": [
+                "2026-03-30 23:20"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "f2": "最新价",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "ZXJ_f2_3",
+              "returnName": "最新价",
+              "classCode": "007001",
+              "checkedRelatedIndicators": false,
+              "startDate": "2026-03-30 00:00:00",
+              "endDate": "2026-03-30 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "apiCode": "3",
+              "isGroup": false,
+              "returnSourceCode": "f2",
+              "returnSourceName": "最新价",
+              "graph": "2",
+              "unit": "0",
+              "tableType": "2"
+            },
+            "entityCodes": [
+              "300750.SZ",
+              "03750.HK"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "ZXJ_f2_3",
+                "returnName": "最新价",
+                "classCode": "007001",
+                "checkedRelatedIndicators": false,
+                "startDate": "2026-03-30 00:00:00",
+                "endDate": "2026-03-30 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "apiCode": "3",
+                "isGroup": false,
+                "returnSourceCode": "f2",
+                "returnSourceName": "最新价",
+                "graph": "2",
+                "unit": "0",
+                "tableType": "2"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "宁德时代(300750.SZ)",
+              "宁德时代(03750.HK)"
+            ],
+            "tipFlags": [
+              "0"
+            ],
+            "dataType": "行情数据",
+            "title": "宁德时代(300750.SZ)等当前的最新价",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "EntityLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [],
+            "dataTypeEnum": "HQ",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001194744",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "宁德时代",
+              "shortName": "",
+              "secuCode": "300750",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "securityName": "宁德时代",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001194744",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "宁德时代",
+                "shortName": "",
+                "secuCode": "300750",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "securityName": "宁德时代",
+                "hasKLine": true,
+                "valuation": false
+              },
+              {
+                "entityId": "1004133735",
+                "entityType": "SEC",
+                "entityTypeCode": "058001003001",
+                "entityTypeName": "H股",
+                "classCode": "002003",
+                "className": "港股",
+                "publishCode": "",
+                "fullName": "宁德时代",
+                "shortName": "",
+                "secuCode": "03750",
+                "market": "116",
+                "marketChar": ".HK",
+                "correct": false,
+                "securityName": "宁德时代",
+                "hasKLine": true,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-03-30 23:20": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "300750.SZ",
+            "entityName": "2026-03-30",
+            "table": {
+              "100000000017975": [
+                "413.0",
+                "632"
+              ],
+              "headName": [
+                "宁德时代(300750.SZ)",
+                "宁德时代(03750.HK)"
+              ]
+            },
+            "rawTable": {
+              "100000000017975": [
+                "413.0",
+                "632.0"
+              ],
+              "headName": [
+                "宁德时代(300750.SZ)",
+                "宁德时代(03750.HK)"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000017975": "收盘价",
+              "headNameSub": "数据来源",
+              "securityName": "股票名称"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000017975",
+              "returnName": "收盘价",
+              "classCode": "007102",
+              "checkedRelatedIndicators": false,
+              "startDate": "2026-03-30 00:00:00",
+              "endDate": "2026-03-30 00:00:00",
+              "fuzzy": true,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "Period=1,AdjustFlag=1,CurType=2",
+              "quantType": "2",
+              "isGroup": false,
+              "returnSourceCode": "CLOSE",
+              "returnSourceName": "收盘价",
+              "graph": "2",
+              "unit": "0",
+              "tableType": "1"
+            },
+            "entityCodes": [
+              "300750.SZ",
+              "03750.HK"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000017975",
+                "returnName": "收盘价",
+                "classCode": "007102",
+                "checkedRelatedIndicators": false,
+                "startDate": "2026-03-30 00:00:00",
+                "endDate": "2026-03-30 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1,AdjustFlag=1,CurType=2",
+                "quantType": "2",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "0",
+                "tableType": "1"
+              },
+              {
+                "returnCode": "100000000017985",
+                "returnName": "收盘价",
+                "classCode": "007102",
+                "checkedRelatedIndicators": false,
+                "startDate": "2026-03-30 00:00:00",
+                "endDate": "2026-03-30 00:00:00",
+                "fuzzy": true,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1,AdjustFlag=1,CurType=4",
+                "quantType": "2",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000017975"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "宁德时代(300750.SZ)等的收盘价",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftEntityTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300750.SZ,03750.HK&indId=100000000001098,100000000012786",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1001194744",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "宁德时代",
+              "shortName": "",
+              "secuCode": "300750",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "securityName": "宁德时代",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1001194744",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "宁德时代",
+                "shortName": "",
+                "secuCode": "300750",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "securityName": "宁德时代",
+                "hasKLine": true,
+                "valuation": false
+              },
+              {
+                "entityId": "1004133735",
+                "entityType": "SEC",
+                "entityTypeCode": "058001003001",
+                "entityTypeName": "H股",
+                "classCode": "002003",
+                "className": "港股",
+                "publishCode": "",
+                "fullName": "宁德时代",
+                "shortName": "",
+                "secuCode": "03750",
+                "market": "116",
+                "marketChar": ".HK",
+                "correct": false,
+                "securityName": "宁德时代",
+                "hasKLine": true,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-03-30": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "宁德时代",
+            "最新价收盘价",
+            "2026-03-30至2026-03-30"
+          ],
+          "search_data_task_1": [
+            "宁德时代",
+            "最新价收盘价",
+            "2026-03-30至2026-03-30"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1001194744",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "宁德时代",
+            "shortName": "",
+            "secuCode": "300750",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "securityName": "宁德时代",
+            "hasKLine": false,
+            "valuation": false
+          },
+          {
+            "entityId": "1004133735",
+            "entityType": "SEC",
+            "entityTypeCode": "058001003001",
+            "entityTypeName": "H股",
+            "classCode": "002003",
+            "className": "港股",
+            "publishCode": "",
+            "fullName": "宁德时代",
+            "shortName": "",
+            "secuCode": "03750",
+            "market": "116",
+            "marketChar": ".HK",
+            "correct": false,
+            "securityName": "宁德时代",
+            "hasKLine": false,
+            "valuation": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "20be6ae43dc34ca2b7a0bd50b3441a21"
+}
